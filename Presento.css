@@ -1,0 +1,375 @@
+.logo span {
+  color: rgb(224, 58, 61);
+}
+.navlink {
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+}
+.navlink:hover {
+  color: rgb(224, 58, 61);
+}
+.nav-button {
+  padding: 7px 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(224, 58, 61);
+  color: white;
+}
+.nav-button:hover {
+  background-color: rgb(227, 78, 80);
+  transition: 0.3s;
+}
+.section1 {
+  background-image: linear-gradient(rgb(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)),
+    url(https://bootstrapmade.com/content/demo/Presento/assets/img/hero-bg.jpg);
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.cnt1 h1 {
+  font-size: 46px;
+}
+.s1-button {
+  padding: 10px 40px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(224, 58, 61);
+  color: white;
+  height: 48px;
+}
+.s1-button:hover {
+  background-color: rgb(152, 40, 42);
+  transition: 0.3s;
+}
+.cnt1 a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+.cnt1 i {
+  color: rgb(224, 58, 61);
+  font-size: 30px;
+}
+.section2 img {
+  filter: grayscale();
+  transition: all 0.3s;
+}
+.section2 img:hover {
+  filter: none;
+}
+.wn:hover a {
+  color: rgb(152, 40, 42);
+}
+.wn:hover i {
+  color: rgb(152, 40, 42);
+}
+.section3 {
+  clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+}
+.sec1 h2 {
+  font-size: 36px;
+}
+.au {
+  padding: 8px 20px;
+  background-color: black;
+  border: 1px solid rgb(224, 58, 61);
+  border-radius: 50px;
+  transition: 0.3s;
+}
+.au:hover {
+  background-color: rgb(224, 58, 61);
+}
+.i1 {
+  font-size: 40px;
+  color: rgb(201, 54, 57);
+}
+.sec2 .box1:hover {
+  cursor: pointer;
+}
+.box1 p {
+  color: rgb(163, 163, 163);
+}
+.box1 a {
+  color: white;
+  text-decoration: none;
+  font-size: 22px;
+  transition: all 0.2s;
+}
+.box1:hover a {
+  color: rgb(201, 54, 57);
+}
+.box2 {
+  color: rgb(105, 105, 105);
+}
+.box2 .icn {
+  border-radius: 100%;
+  width: 55px;
+}
+.inbox {
+  border: 1px solid gainsboro;
+  transition: 0.3s;
+  height: 100%;
+  cursor: pointer;
+}
+.inbox:hover {
+  border: 1px solid rgb(224, 58, 61);
+}
+
+.inbox i {
+  font-size: 43px;
+}
+.inbox:hover i {
+  color: rgb(224, 58, 61);
+}
+.inbox:active {
+  background-color: rgb(224, 58, 61);
+  border: rgb(224, 58, 61);
+  color: white;
+}
+.inbox:active i {
+  color: white;
+  transition: 0.3s;
+}
+.six1 p {
+  color: rgb(69, 69, 69);
+}
+.six1 i {
+  color: rgb(224, 58, 61);
+  font-size: 20px;
+}
+.section7 {
+  clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+}
+.line {
+  border: 2px solid rgb(224, 58, 61);
+  width: 50px;
+}
+.s7inbox {
+  background-color: rgb(54, 54, 54);
+  transition: all 0.3s;
+}
+.s7inbox:hover {
+  background-color: rgb(87, 87, 87);
+}
+.s7inbox i {
+  font-size: 36px;
+  color: rgb(224, 58, 61);
+}
+.s7box {
+  cursor: pointer;
+}
+.nv:hover {
+  color: rgb(201, 54, 57);
+  cursor: pointer;
+}
+.inv-con {
+  background-color: rgb(0, 0, 0, 0.5);
+  display: none;
+}
+.img1 {
+  transition: all 0.3s ease-in-out;
+}
+.img-box {
+  overflow: hidden;
+}
+.img-box:hover .inv-con {
+  display: block;
+}
+
+.img-box:hover .img1 {
+  transform: scale(1.1);
+}
+.inv-con i {
+  transition: all 0.2s;
+}
+.inv-con i:hover {
+  color: rgb(201, 54, 57);
+  cursor: pointer;
+}
+.cmd-box img {
+  border-radius: 100%;
+}
+.bi-star-fill {
+  color: rgb(255, 193, 8);
+}
+.cmd-box .fa {
+  color: rgb(240, 156, 157);
+  font-size: 20px;
+}
+.section10 {
+  clip-path: polygon(0 5%, 100% 0, 100% 95%, 0 100%);
+  background-color: rgb(28, 28, 28);
+}
+.planblk {
+  background-color: rgb(54, 54, 54);
+}
+.planblk .bi-check {
+  font-size: 24px;
+  color: rgb(4, 148, 81);
+}
+.planblk .bi-x {
+  font-size: 24px;
+  color: rgb(133, 133, 133);
+}
+.planblk .p1 {
+  color: rgb(194, 194, 194);
+}
+.planblk .p2 {
+  color: rgb(133, 133, 133);
+}
+.planblk .plan-button button {
+  padding: 8px 25px;
+  font-size: 17px;
+  border-radius: 5px;
+  border: 1px solid rgb(117, 117, 117);
+  background-color: black;
+  color: rgb(139, 138, 138);
+  transition: all 0.3s;
+}
+.planblk .plan-button button:hover {
+  color: white;
+  background-color: rgb(224, 58, 61);
+}
+.planred {
+  background-color: rgb(224, 58, 61);
+}
+.two {
+  font-size: 40px;
+}
+.nine {
+  font-size: 50px;
+}
+.planred .bi-check {
+  font-size: 24px;
+  color: white;
+}
+.planred .plan-button button {
+  padding: 8px 25px;
+  font-size: 17px;
+  border-radius: 5px;
+  border: 1px solid white;
+  background-color: rgb(224, 58, 61);
+  transition: all 0.3s;
+  color: white;
+}
+.planred .plan-button button:hover {
+  color: white;
+  background-color: rgb(174, 44, 46);
+}
+.sec11-con1 {
+  border: 1px solid rgb(246, 198, 198);
+  background-color: rgb(255, 250, 250);
+  border-radius: 5px;
+}
+.sec11-con {
+  border-radius: 5px;
+  border: 1px solid rgb(221, 218, 218);
+}
+.section12 {
+  clip-path: polygon(0 5%, 100% 0, 100% 95%, 0 100%);
+}
+.team-img img {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.team-cmd {
+  background-color: rgb(54, 54, 54);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.mda-box {
+  background-color: gray;
+  border-radius: 5px;
+  display: none;
+}
+.in-team:hover .mda-box {
+  display: block;
+}
+.mda-box:hover {
+  transition: all 0.3s;
+  background-color: rgb(201, 54, 57);
+}
+/* team */
+/* team */
+/* team */
+/* team */
+/* team */
+/* team */
+/* team */
+/* team */
+.Address {
+  box-shadow: 0 4px 8px 0 rgba(241, 239, 239, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.Address .icon {
+  border: dotted rgb(174, 44, 46) 2px;
+  border-radius: 100%;
+  padding: 8px 12px;
+}
+.Address a {
+  text-decoration: none;
+}
+.cont-button button {
+  background-color: rgb(224, 58, 61);
+  border: none;
+  border-radius: 100px;
+  transition: all 0.2s;
+}
+.cont-button button:hover {
+  background-color: rgb(222, 88, 91);
+}
+.ipt1 {
+  box-shadow: 0 4px 8px 0 rgba(241, 239, 239, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.ipt1 input {
+  border: 1px solid rgb(219, 218, 218);
+}
+
+.ipt1 textarea {
+  border: 1px solid rgb(219, 218, 218);
+}
+.f-inc {
+  border: 1px solid white;
+  border-radius: 100%;
+  color: white;
+  padding: 7px 12px 7px 12px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.f-inc:hover {
+  border: 1px solid rgb(222, 88, 91);
+  color: rgb(222, 88, 91);
+}
+.f-inpt {
+  background-color: black;
+  border: rgb(61, 60, 60) 1px solid;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.f-btn {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: rgb(224, 58, 61);
+  border: none;
+  transition: all 0.2s;
+}
+.f-btn:hover {
+  background-color: rgb(182, 37, 40);
+}
+.footer a {
+  text-decoration: none;
+  color: rgb(179, 178, 179);
+}
+.footer .line {
+  border: 1px solid rgb(51, 51, 51);
+}
+.end a {
+  color: rgb(224, 55, 49);
+}
+.end a:hover {
+  color: rgb(169, 43, 39);
+}
